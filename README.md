@@ -1,4 +1,5 @@
-- 👋 Hola 👋 -
+<html>
+<p align='center'> - 👋 Hola 👋 -
 
 - 💞️ I’m interested in many things. Some of those things happen to be technology related 💞️ -
 
@@ -14,7 +15,9 @@
 - 👀 I’m looking to collaborate, append, inquire, create and inform 👀 -
 
 - 👋 adios 👋 -
-- 
+
+ 
+  </p></html>
 <!---
 rand0mostrich/rand0mostrich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
